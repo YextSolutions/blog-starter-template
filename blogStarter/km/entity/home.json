@@ -73,6 +73,6 @@
     "name": "Home",
     "slug": "index.html"
   },
-  "entityType": "ce_homePage",
+  "entityType": "blogStarter_homePage",
   "labels": []
 }
