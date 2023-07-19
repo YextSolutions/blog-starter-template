@@ -59,7 +59,7 @@
       "disabled": true
     },
     {
-      "entityType": "ce_homePage",
+      "entityType": "blogStarter_homePage",
       "defaultFieldEligibilityGroup": "ce_homePage.default",
       "disabled": false
     },
