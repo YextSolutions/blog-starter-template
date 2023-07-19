@@ -60,12 +60,12 @@
     },
     {
       "entityType": "blogStarter_homePage",
-      "defaultFieldEligibilityGroup": "ce_homePage.default",
+      "defaultFieldEligibilityGroup": "blogStarter_homePage",
       "disabled": false
     },
     {
       "entityType": "blogStarter_blog",
-      "defaultFieldEligibilityGroup": "ce_blog.default",
+      "defaultFieldEligibilityGroup": "blogStarter_blog",
       "disabled": false
     }
   ]
