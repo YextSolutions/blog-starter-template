@@ -2,7 +2,7 @@
   "$id": "blog-starter-react",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
   "siteName": "Blog Starter",
-  "repoConfig": "acutely-thin-fish-8615b",
+  "repoConfig": "acutely-commuting-panda-9471t",
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
