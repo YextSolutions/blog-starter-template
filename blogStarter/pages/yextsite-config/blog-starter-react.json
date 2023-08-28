@@ -1,8 +1,8 @@
 {
-  "$id": "blog-starter-react",
+  "$id": "blogStarter_blog-starter-react",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
   "siteName": "Blog Starter",
-  "repoConfig": "acutely-commuting-panda-9471t",
+  "repoConfig": "blogStarter_acutely-commuting-panda-9471t",
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
